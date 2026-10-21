@@ -1,0 +1,11 @@
+2026-10-22 00:20:03,881 INFO  unfocus_alarm.app: 不专注闹钟 v1.2.0 启动
+2026-10-22 00:20:03,882 INFO  unfocus_alarm.app: 配置目录 D:\programe\project\unfocus-alarm\dist\不专注闹钟\data
+2026-10-22 00:20:03,883 INFO  unfocus_alarm.app: 绿色版，数据在 D:\programe\project\unfocus-alarm\dist\不专注闹钟\data
+2026-10-22 00:20:03,885 INFO  unfocus_alarm.alarm_flow: 下次响铃 00:24:51（4.8 分钟后）
+2026-10-22 00:20:04,849 INFO  unfocus_alarm.app: 显示引导窗口
+2026-10-22 00:20:12,378 INFO  unfocus_alarm.app: 响铃开始
+2026-10-22 00:20:12,403 INFO  unfocus_alarm.overlay.manager: 开始响铃，屏幕数=1
+2026-10-22 00:20:44,708 INFO  unfocus_alarm.overlay.manager: 响铃结束：cleared
+2026-10-22 00:20:44,709 INFO  unfocus_alarm.app: 响铃结束：解除封锁，继续专注吧！
+2026-10-22 00:20:44,825 INFO  unfocus_alarm.alarm_flow: 下次响铃 00:56:13（35.5 分钟后）
+2026-10-22 00:22:44,304 INFO  unfocus_alarm.app: 退出
